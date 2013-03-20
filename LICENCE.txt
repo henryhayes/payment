@@ -1,4 +1,4 @@
-Copyright (c) Copyright (c) 2012 PHP Payment Library
+Copyright (c) Copyright (c) 2013 PHP Payment Library
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
